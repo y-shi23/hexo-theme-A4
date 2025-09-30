@@ -1,6 +1,6 @@
 {
-  "name": "hexo-theme-a4",
-  "version": "2.0.0",
+  "name": "hexo-theme-apaper",
+  "version": "1.0.0",
   "private": false,
   "description": "A hexo theme that looks like an A4 paper.",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HiNinojay/hexo-theme-A4.git"
+    "url": "git+https://github.com/y-shi23/hexo-theme-A4.git"
   },
   "keywords": [
     "hexo",
@@ -24,11 +24,11 @@
     "hexo-theme",
     "blog"
   ],
-  "author": "Nino",
+  "author": "ocean",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/HiNinojay/hexo-theme-A4/issues"
+    "url": "https://github.com/y-shi23/hexo-theme-A4/issues"
   },
-  "homepage": "https://github.com/HiNinojay/hexo-theme-A4#readme",
+  "homepage": "https://github.com/y-shi23/hexo-theme-A4#readme",
   "main": "_config.yml" 
 }
