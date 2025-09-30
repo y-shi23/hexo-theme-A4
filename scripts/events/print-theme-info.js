@@ -14,8 +14,8 @@ Welcome.
  / __ /_  _/
 /_/ |_|/_/                                 Reading and Writing.
 -----------------------------------------------------------------
-Your hexo-theme-A4 version is ${version}. Maybe it can be updated.
-The latest: https://github.com/HiNinoJay/hexo-theme-A4/releases
+Your hexo-theme-apaper version is ${version}. Maybe it can be updated.
+The latest: https://github.com/HiNinoJay/hexo-theme-apaper/releases
 -----------------------------------------------------------------
 `)
 })
