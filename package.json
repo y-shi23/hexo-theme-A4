@@ -1,6 +1,6 @@
 {
   "name": "hexo-theme-apaper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "description": "A hexo theme that looks like an A4 paper.",
   "scripts": {
