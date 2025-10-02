@@ -4,7 +4,7 @@
     <div class="index-header-line" >
         <% if(theme.index.hitokoto) { %>
             <span id="quote"></span>
-            <script src="<%= url_for('/js/hitokoto.js') %>" ></script>
+            <script src="<%= url_for('/js/hitokoto.js') %>" defer></script>
         <% } else { %>
             <div id="hiddenHeaderContentArray" style="display: none;">
                 <% var headerContentArray = theme.index.header %>
