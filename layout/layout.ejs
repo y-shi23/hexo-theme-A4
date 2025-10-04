@@ -21,10 +21,15 @@
                 buttonColorLight: '#fff', // default: '#fff'
                 saveInCookies: true, // default: true,
                 label: '🌓', // default: ''
-                autoMatchOsTheme: true // default: true
+                autoMatchOsTheme: false, // default: true
+                defaultMode: 'dark' // 默认开启暗黑模式
             }
             const darkmode = new Darkmode(options);
             darkmode.showWidget();
+            // 强制开启暗黑模式
+            darkmode.toggle();
+            // 确保cookie中的状态也被设置为暗黑模式
+            localStorage.setItem('darkmode', 'true');
         </script>
         <% } %>
         <% if(theme.tool.leftToc) { %>
